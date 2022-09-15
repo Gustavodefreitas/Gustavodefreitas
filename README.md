@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://beacons.ai/gustavodefreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodefreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodefreitas&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavodefreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavodefreitas&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
